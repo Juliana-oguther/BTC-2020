@@ -17,7 +17,8 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 
     1.1. *Fork*: Use para fazer as alterações diretamente no GitHub! 
     
-    ![Fork](https://docs.github.com/assets/images/help/repository/code-button.png)
+    ![Clone](https://docs.github.com/assets/images/help/repository/code-button.png)
+    ![Fork](https://stream-blog-v2.imgix.net/blog/wp-content/uploads/79154ef7dd39bff4b5eb3222ebe62e75/z0rVo3q.png?auto=compress%2Cformat&ixlib=php-1.2.1)
 
 2. Depois de feito o *fork* ou *clone*, você precisa inserir uma pasta com o seu nome, seguindo os passos abaixo:
 
@@ -28,7 +29,7 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 ```
 BTC-2020
 └───Desafio #X
-    └─── Seu Nome
+    └─── Username
 │   │   │ Arquivos.zip
 │   │   │ README.md (Opcional)
 ```
