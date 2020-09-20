@@ -44,3 +44,5 @@ class MediaGeral(BaseEstimator, TransformerMixin):
 Explicando: avaliei cada nota e, sendo zero ou nulo, não entrou para calcular a média. Caso algum registro tenha todas as notas zero ou nula, o resultado ficou 0. 
 
 Não posso garantir que esta tenha sido a razão do meu desempenho neste desafio, mas é provável que sim.
+
+O arquivo completo de minha abordagem neste desafio está neste repositório (https://github.com/htsnet/sklearn_transforms) que é o foi utilizado na pipeline de entrega da solução. Aliás, foi o único desafio que fiz uma única submissão.
