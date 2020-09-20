@@ -1,0 +1,9 @@
+{
+    "ACESSORIOS": ["TORO", "DUCATO"],
+    "CONFORTO": ["FIORINO", "CRONOS"],
+    "CONSUMO": ["FIAT 500", "MAREA"],
+    "DESEMPENHO": ["LINEA", "ARGO"],
+    "DESIGN": ["RENEGADE", "TORO"],
+    "MANUTENCAO": ["DUCATO", "FIORINO"],
+    "SEGURANCA": ["MAREA", "LINEA"]
+}

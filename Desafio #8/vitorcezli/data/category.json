@@ -1,0 +1,9 @@
+{
+    "ACESSORIOS": ["TORO", "DUCATO"],
+    "CONFORTO": ["MAREA", "TORO"],
+    "CONSUMO": ["TORO", "ARGO"],
+    "DESEMPENHO": ["ARGO", "DUCATO"],
+    "DESIGN": ["TORO", "CRONOS"],
+    "MANUTENCAO": ["FIORINO", "TORO"],
+    "SEGURANCA": ["TORO", "DUCATO"]
+}
