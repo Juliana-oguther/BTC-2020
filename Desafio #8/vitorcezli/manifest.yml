@@ -1,0 +1,8 @@
+---
+applications:
+- name:
+  command: npm start
+  instances: 1
+  memory: 128M
+  buildpacks:
+  - https://github.com/cloudfoundry/nodejs-buildpack
